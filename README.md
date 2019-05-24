@@ -54,9 +54,9 @@ We use TensorFlow to implement our model.
 >|-pgcna.py                  // PGCN-A model  
 >|-pgcnaMain.py              // Main file of PGCN-A  
 >|-pgcnc.py                  // PGCN-C model  
->|-pgcncMain.py              // Main file of PGCN-C 
->|-processData.py            // Load data
->|-settings.py               // Default settings of models 
+>|-pgcncMain.py              // Main file of PGCN-C   
+>|-processData.py            // Load data  
+>|-settings.py               // Default settings of models     
 >|-evaluate.py               // Model evaluation  
 >|-data  
 >>|-ml_100k_top100            // MovieLens 100k dataset  
